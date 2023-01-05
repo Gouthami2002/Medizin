@@ -22,17 +22,18 @@ This is a web based application developed for health related.
 ## Screenshots
 
 
-
+**Home **
 
 ![Screenshot (94)](https://user-images.githubusercontent.com/114175208/210719571-ab01e169-d1ec-4951-9bc6-fb6a6e3f6ff3.png)
 
+**Medibot**
 ![image](https://user-images.githubusercontent.com/114175208/210720327-41081427-41fa-45c0-af0a-bee9d57a21f3.png)
 
+**About**
 ![Screenshot (99)](https://user-images.githubusercontent.com/114175208/210720392-9f8938dc-1ec3-4dc1-9c66-15151336299c.png)
 
+**Our Depertments**
 ![Screenshot (100)](https://user-images.githubusercontent.com/114175208/210720473-ae72d6f5-84b7-4756-be77-46cbf843cfc4.png)
-
-![Screenshot (101)](https://user-images.githubusercontent.com/114175208/210720524-a5ef7dc9-20d1-47be-ab62-ee15b29850ec.png)
 
 ![Screenshot (95)](https://user-images.githubusercontent.com/114175208/210719854-be2f9ff7-e8d2-47bf-9917-cc37e024122f.png)
 
