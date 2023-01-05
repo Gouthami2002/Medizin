@@ -20,6 +20,7 @@ This is a web based application developed for health related.
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots
+![Screenshot (94)](https://user-images.githubusercontent.com/114175208/210719571-ab01e169-d1ec-4951-9bc6-fb6a6e3f6ff3.png)
 
  
 
