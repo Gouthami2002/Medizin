@@ -7,8 +7,6 @@ This is a web based application developed for health related.
 
 **Project Link** - https://proud-bush-066db3300.2.azurestaticapps.net
 
-**Project Demo Video Link**  - 
-
 
 ## Features and Functionalities 😃
 
@@ -34,6 +32,7 @@ This is a web based application developed for health related.
 
 **Our Depertments**
 ![Screenshot (100)](https://user-images.githubusercontent.com/114175208/210720473-ae72d6f5-84b7-4756-be77-46cbf843cfc4.png)
+**Project related screenshots**
 
 ![Screenshot (95)](https://user-images.githubusercontent.com/114175208/210719854-be2f9ff7-e8d2-47bf-9917-cc37e024122f.png)
 
